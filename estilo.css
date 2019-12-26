@@ -23,3 +23,17 @@ h3{
     font-size: 24px;
     font-style: italic;
 }
+em{
+    color: #0088CC;
+    font-style: normal;
+    font-weight: bold;
+}
+strong{
+    color: #0066A5;
+    font-weight: normal;
+}
+address{
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
